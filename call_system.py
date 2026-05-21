@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 app = Flask(__name__)
 app.secret_key = "change-this-secret"
 ADMIN_PASSWORD = "kwansei1889"
-EMAIL = "yourname@gmail.com"
-APP_PASSWORD = "your-app-password"
+EMAIL = "ofg@kgjh.jp"
+APP_PASSWORD = "zilf hzgk cssv steb"
 DB = "queue.db"
 
 
